@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://flowersummer.com</id>
     <title>花开立夏</title>
-    <updated>2021-01-02T14:48:51.702Z</updated>
+    <updated>2021-01-02T14:53:31.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://flowersummer.com"/>
     <link rel="self" href="https://flowersummer.com/atom.xml"/>
@@ -12,8 +12,8 @@
     <rights>All rights reserved 2021, 花开立夏</rights>
     <entry>
         <title type="html"><![CDATA[无趣的生活]]></title>
-        <id>https://flowersummer.com/wu-qu-de-sheng-huo/</id>
-        <link href="https://flowersummer.com/wu-qu-de-sheng-huo/">
+        <id>https://flowersummer.com/1/</id>
+        <link href="https://flowersummer.com/1/">
         </link>
         <updated>2020-12-20T15:00:26.000Z</updated>
         <content type="html"><![CDATA[<p>  为什么活着，为什么，操，照着抄都写错，当时为什么没选大数据，烦烦烦。<br>

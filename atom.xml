@@ -2,23 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://flowersummer.com</id>
     <title>花开立夏</title>
-    <updated>2021-01-02T16:15:33.716Z</updated>
+    <updated>2021-01-13T15:48:44.504Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://flowersummer.com"/>
     <link rel="self" href="https://flowersummer.com/atom.xml"/>
-    <subtitle>你只有足够努力，才能看起来毫不费力</subtitle>
+    <subtitle>重要的不是我，而是我所创造之物</subtitle>
     <logo>https://flowersummer.com/images/avatar.png</logo>
     <icon>https://flowersummer.com/favicon.ico</icon>
     <rights>All rights reserved 2021, 花开立夏</rights>
     <entry>
-        <title type="html"><![CDATA[无趣的生活]]></title>
-        <id>https://flowersummer.com/1/</id>
-        <link href="https://flowersummer.com/1/">
+        <title type="html"><![CDATA[2021-01-03]]></title>
+        <id>https://flowersummer.com/nlXZaxrcj/</id>
+        <link href="https://flowersummer.com/nlXZaxrcj/">
         </link>
-        <updated>2020-12-20T15:00:26.000Z</updated>
-        <content type="html"><![CDATA[<p>  为什么活着，为什么，操，照着抄都写错，当时为什么没选大数据，烦烦烦。<br>
-  感觉做什么都不顺。好难受，好想死，写了半个多小时发现错误错的是一个数。好无聊、好无聊、好无聊。好冷好冷好冷，这鬼天气，凭什么隔条河对面就有暖气，我这边没有，啊冻死了冻死了，冻死狗。<br>
-1</p>
+        <updated>2021-01-13T15:38:16.000Z</updated>
+        <content type="html"><![CDATA[<video src="https://bika.picacg.download/flower/7C2CC3A98E836419637D941AF04529B56E836D5F0408003C0B4929BE40037DDC.mp4" controls="controls" style="max-width: 100%; display: block; margin-left: auto; margin-right: auto;">
+your browser does not support the video tag
+</video>
 ]]></content>
     </entry>
 </feed>
